@@ -1,0 +1,59 @@
+
+.h1 {
+	  box-sizing: border-box;
+    background-image: url(https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg?_gl=1*r6hjpw*_ga*NjQ0ODg0ODI0LjE2NTA5ODk3NDY.*_ga_3LRZM6TM9L*MTY5NTE0NTk4OC42OS4xLjE2OTUxNDkwNTUuMC4wLjA.);
+    display: inline-block;
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    margin: 67px 0;
+    width: 100%;
+}
+
+.h2 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+}
+
+.p {
+    font-family: Helvetica;
+}
+
+.p span {
+    font-family: Helvetica;
+    font-weight: bold;
+    color:blue;
+}
+
+.Art-Frames {
+    font-family: Helvetica;
+}
+
+.Hacksaw-Brushes {
+    font-family: Helvetica;
+}
+
+.Frames {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;
+}
+
+.Finnish-Paint {
+    font-family: Helvetica;
+}
+
+#Paint {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue;
+}
